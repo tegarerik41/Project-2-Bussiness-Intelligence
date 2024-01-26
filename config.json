@@ -1,0 +1,19 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "db":"dwh_project2",
+        "user":"postgres",
+        "pwd":"postgres",
+        "port":5432
+    },
+    
+    "folder_name":{
+        "file_name":"Clothes Retail Store",
+        "file_description":"Nama folder local tersimpan didalam project"
+    },
+
+    "sql":{
+        "folder":"sql",
+        "description":"Nama folder menyimpan query sql"
+    }
+}
